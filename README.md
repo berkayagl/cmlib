@@ -4,4 +4,4 @@ cmlib is a library of various functions in the Go programming language. This lib
 
 ## installation  
 
-go get -u github.com/username/cmlib
+go get -u github.com/barkayagl/cmlib
